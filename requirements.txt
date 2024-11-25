@@ -1,0 +1,3 @@
+python-dotenv
+cdktf-cdktf-provider-aws
+cdktf_cdktf_provider_kubernetes
